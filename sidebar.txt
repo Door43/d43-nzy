@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nzy:home|Door43 (nzy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nzy|d43-nzy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nzy/archive/master.zip|d43-nzy.zip]]
+
+**Recent Changes**
+{{changes>ns = nzy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nzy|Ethnologue data]]
+
